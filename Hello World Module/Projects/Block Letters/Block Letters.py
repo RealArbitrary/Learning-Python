@@ -1,5 +1,5 @@
-#De Wet is my name
-#I am lazy but this makes me a hard worker
+# De Wet is my name
+# I am lazy but this makes me a hard worker
 name = """
 DDDD
 D     D
